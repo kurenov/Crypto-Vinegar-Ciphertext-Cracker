@@ -1,2 +1,3 @@
 # VinegarCracker
-Cracks Vinegar Cipher Texts
+Following java program guesses Cipher-Key length and tries Cracks Vinegar Cipher-Texts
+By Olzhas Kurenov
